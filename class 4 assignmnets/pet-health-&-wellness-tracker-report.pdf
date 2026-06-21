@@ -1,0 +1,815 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 6137
+>>
+stream
+0.5670000000000001 w
+0 G
+0.12 0.16 0.23 rg
+56.6929133858267775 785.1970866141731449 481.8897637795275841 -65.1968503937007995 re
+f
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+1. g
+73.7007874015748143 759.6852755905511003 Td
+(Pet Health & Wellness Tracker) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.796 0.835 0.882 rg
+73.7007874015748143 742.6774015748030706 Td
+(AI-Assisted Development Portfolio Report) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 680.3151968503937042 Td
+(1. Project Description & Idea) Tj
+ET
+0.89 0.91 0.94 RG
+1.4173228346456694 w
+56.6929133858267775 668.9766141732283131 m
+538.5826771653544256 668.9766141732283131 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 640.6301574803148924 Td
+(App / Game Idea) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 625.0396062992125508 Td
+(The Pet Health & Wellness Tracker is a friendly, easy-to-use website designed to help pet owners look after) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 609.4490551181102092 Td
+(their furry friends. It allows pet parents to keep all their pet's critical details in one single, safe place. You can) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 593.8585039370078675 Td
+(log daily activities like meals, walks, medications, and bathroom breaks. The app features state-of-the-art) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 578.2679527559055259 Td
+(interactive charts to visualize weight variations over time and set alerts for upcoming vet appointments or) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 562.6774015748030706 Td
+(vaccination updates. It acts as a digital diary for your companion.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 528.6616535433070112 Td
+(Mission & Purpose) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 513.0711023622046696 Td
+(The purpose of this project is to solve a common problem for pet owners: remembering vaccine dates,) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 497.480551181102328 Td
+(medical records, and daily habits. Instead of using messy paper notes or confusing spreadsheets, this app) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 481.8899999999999295 Td
+(provides a stress-free dashboard so pets remain happy, healthy, and on track with their wellness) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 466.2994488188975879 Td
+(requirements.) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 426.614409448818833 Td
+(2. AI-Assisted Development Process & Scaffolding) Tj
+ET
+0.89 0.91 0.94 RG
+1.4173228346456694 w
+56.6929133858267775 415.2758267716534988 m
+538.5826771653544256 415.2758267716534988 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 386.929370078740078 Td
+(Neural Models & Developer Tools Used) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.2 0.255 0.333 rg
+56.6929133858267775 371.3388188976377364 Td
+(• Code Assistant Models: Google AI Studio, Gemini 3.5 Flash \(AI Coding Assistant\), Vite, React 19, Tailwind) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.2 0.255 0.333 rg
+56.6929133858267775 355.7482677165353948 Td
+(CSS, Lucide Icons, LocalStorage Persistence) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.2 0.255 0.333 rg
+56.6929133858267775 340.1577165354329964 Td
+(• Integrated Scaffold Runtime: React 19 Engine, Tailwind CSS, TypeScript Modules) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 306.1419685039369369 Td
+(Initial Direct Prompt) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.431 0.49 rg
+56.6929133858267775 290.5514173228345953 Td
+(Create a modern, single-page Pet Health and Wellness Tracker in React with custom styling. The app should let users) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.431 0.49 rg
+56.6929133858267775 277.7955118110235162 Td
+(register their pets with name and type, add routine daily logs \(such as foods/meals, habits, medications, and bodyweight\),) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.431 0.49 rg
+56.6929133858267775 265.0396062992125508 Td
+(render visual trends of their weight logs, and save all input information on the browser's local storage so nothing is lost) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.431 0.49 rg
+56.6929133858267775 252.2837007874014716 Td
+(when the page refreshes.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 221.1025984251967884 Td
+(Prompt Engineering Iterations) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.431 0.49 rg
+56.6929133858267775 205.5120472440944468 Td
+(• "Let's make the website look very warm, inviting, and friendly. Customize the layout with soft round corners, clean) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.431 0.49 rg
+56.6929133858267775 192.7561417322833677 Td
+(borders, and pet-friendly color accents like soft brown or sky blue.") Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.431 0.49 rg
+56.6929133858267775 180.0002362204724022 Td
+(• "Add an interactive reminder system where owners can add upcoming vaccination alerts and check them off when) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.431 0.49 rg
+56.6929133858267775 167.2443307086613231 Td
+(done.") Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.431 0.49 rg
+56.6929133858267775 154.4884251968503577 Td
+(• "Introduce an expert pet guide section powered by advice models to show general daily health tips based on pet types) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.431 0.49 rg
+56.6929133858267775 141.7325196850392786 Td
+(\(Dogs vs. Cats\).") Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 104.882125984251843 Td
+(3. Incremental Sprint Milestones) Tj
+ET
+0.89 0.91 0.94 RG
+1.4173228346456694 w
+56.6929133858267775 93.5435433070865088 m
+538.5826771653544256 93.5435433070865088 l
+S
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 76.5356692913385359 Td
+([COMPLETED] Phase 1: Blueprint: App Shell & UI Design) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 6413
+>>
+stream
+1.4173228346456694 w
+0.89 0.91 0.94 RG
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.431 0.49 rg
+56.6929133858267775 785.1970866141732586 Td
+(Crafted the initial friendly interface and established sections for Pet Profiles and Daily Logs.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.549 0.549 0.588 rg
+56.6929133858267775 772.4411811023621794 Td
+(  Prompt Key: "Create a simple React screen for logging pet details with a warm green and beige layout.") Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 756.8506299212598378 Td
+([COMPLETED] Phase 2: Data Store: Local Cache Integration) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.431 0.49 rg
+56.6929133858267775 742.6774015748030706 Td
+(Implemented local storage code blocks to secure client entries and stop state loss when reloading.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.549 0.549 0.588 rg
+56.6929133858267775 729.9214960629921052 Td
+(  Prompt Key: "Write React state logic to save and load pet inputs into the browser's LocalStorage.") Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 714.3309448818897636 Td
+([COMPLETED] Phase 3: Chart Trends: Weight Visualization) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 0.431 0.49 rg
+56.6929133858267775 700.15771653543311 Td
+(Constructed standard responsive charts to plot weight entries and added checklist alerts.) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.549 0.549 0.588 rg
+56.6929133858267775 687.4018110236220309 Td
+(  Prompt Key: "Build a friendly visual trend graph to represent weight changes for dog profiles.") Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 647.7167716535432191 Td
+(4. Challenges Met & Applied Solutions) Tj
+ET
+0.89 0.91 0.94 RG
+1.4173228346456694 w
+56.6929133858267775 636.3781889763779418 m
+538.5826771653544256 636.3781889763779418 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 608.0317322834645211 Td
+(What Worked Perfectly) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 592.4411811023621794 Td
+(Gemini was incredibly helpful. It generated the exact list structures and styled the inputs beautifully on the) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 576.8506299212597241 Td
+(first go. The browser local storage logic was automatically handled, so pet profiles were successfully saved) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 561.2600787401574962 Td
+(and reloaded immediately.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 528.6616535433070112 Td
+(Did Not Work / Constraints Faced) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 513.0711023622046696 Td
+(At the start, adding multiple pets caused the dynamic charts to overlap or break because the chart) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 497.480551181102328 Td
+(component didn't know which pet's weight history was currently active.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 464.8821259842518998 Td
+(Bugs Profile Checked) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.725 0.11 0.11 rg
+56.6929133858267775 449.2915748031495582 Td
+(We noticed a bug where entering a decimal value for a pet's weight would convert it into a string text. This) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.725 0.11 0.11 rg
+56.6929133858267775 433.7010236220471597 Td
+(caused the weight trend graph to look empty or display weird, flat lines.) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 401.1025984251967884 Td
+(Interactive Solutions Applied) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.086 0.396 0.204 rg
+56.6929133858267775 385.5120472440944468 Td
+(We fixed this in React by wrapping the input value in a standard Javascript 'parseFloat\(\)' function before) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.086 0.396 0.204 rg
+56.6929133858267775 369.9214960629920483 Td
+(storing it. This made sure weight math values remained pure numbers for the graph rendering.) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 330.2364566929132934 Td
+(5. Features & Real-World Utility) Tj
+ET
+0.89 0.91 0.94 RG
+1.4173228346456694 w
+56.6929133858267775 318.8978740157479592 m
+538.5826771653544256 318.8978740157479592 l
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 290.5514173228345953 Td
+(Final Working Features) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 274.9608661417322537 Td
+(• Pet Profile Registration \(Set name, breed, weight, and age\)) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 260.7876377952754865 Td
+(• Routine Daily Care Tracker \(Track meals, walks, meds, and mood\)) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 246.614409448818833 Td
+(• Dynamic Weight Progress Estimator & visual chart logs) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 232.4411811023621794 Td
+(• Interactive Vaccination & Appointment Checklist alert drawer) Tj
+ET
+BT
+/F1 9.5 Tf
+10.9249999999999989 TL
+0.278 0.333 0.412 rg
+56.6929133858267775 218.2679527559054122 Td
+(• Quick Pet Care Advice Cards showing basic rules) Tj
+ET
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.118 0.161 0.231 rg
+56.6929133858267775 187.086850393700729 Td
+(Real-World Problem Solving Value) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.2 0.255 0.333 rg
+56.6929133858267775 171.4962992125983874 Td
+(Yes, this project directly solves a real-world problem. Many pet parents struggle to track recurring medical) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.2 0.255 0.333 rg
+56.6929133858267775 155.9057480314959321 Td
+(regimens, weight charts, or coordinate care schedules between household members. This app simplifies) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.2 0.255 0.333 rg
+56.6929133858267775 140.3151968503935905 Td
+(caregiver coordination, ensuring pets never miss critical medications.) Tj
+ET
+BT
+/F2 13 Tf
+14.9499999999999993 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 100.6301574803148924 Td
+(6. Evaluation KPI Scores) Tj
+ET
+0.89 0.91 0.94 RG
+1.4173228346456694 w
+56.6929133858267775 89.2915748031495013 m
+538.5826771653544256 89.2915748031495013 l
+S
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 72.2837007874014716 Td
+(• Design Friendliness - 95% Score) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 826
+>>
+stream
+1.4173228346456694 w
+0.89 0.91 0.94 RG
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.392 0.431 0.49 rg
+56.6929133858267775 785.1970866141732586 Td
+(  Cutesy fonts, high contrast text fields, and soft shapes.) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 768.1892125984252289 Td
+(• Feature Usefulness - 91% Score) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.392 0.431 0.49 rg
+56.6929133858267775 754.0159842519684616 Td
+(  Addresses daily pet routines and medical tracking.) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 737.0081102362204319 Td
+(• No-Code Feasibility - 100% Score) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.392 0.431 0.49 rg
+56.6929133858267775 722.8348818897637784 Td
+(  Easy for students without computer science training to prompt.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R ]
+/Count 3
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 9 0 R
+/F2 10 0 R
+/F3 11 0 R
+/F4 12 0 R
+/F5 13 0 R
+/F6 14 0 R
+/F7 15 0 R
+/F8 16 0 R
+/F9 17 0 R
+/F10 18 0 R
+/F11 19 0 R
+/F12 20 0 R
+/F13 21 0 R
+/F14 22 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+23 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20260621231105+05'00')
+>>
+endobj
+24 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000013957 00000 n 
+0000015790 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000006341 00000 n 
+0000006478 00000 n 
+0000012943 00000 n 
+0000013080 00000 n 
+0000014026 00000 n 
+0000014151 00000 n 
+0000014282 00000 n 
+0000014416 00000 n 
+0000014554 00000 n 
+0000014678 00000 n 
+0000014807 00000 n 
+0000014939 00000 n 
+0000015075 00000 n 
+0000015203 00000 n 
+0000015330 00000 n 
+0000015459 00000 n 
+0000015592 00000 n 
+0000015694 00000 n 
+0000016042 00000 n 
+0000016128 00000 n 
+trailer
+<<
+/Size 25
+/Root 24 0 R
+/Info 23 0 R
+/ID [ <968494B5B0714E4811B6C88DEDAF8C4A> <968494B5B0714E4811B6C88DEDAF8C4A> ]
+>>
+startxref
+16232
+%%EOF
